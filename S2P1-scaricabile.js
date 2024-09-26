@@ -159,7 +159,7 @@ for ( i = 0 ; i < 101 ; i++){
       console.log('buzz')   
   }
   
-  else if (i % 3 !== 0 && i % 5 !== 0) {
+  else {
    console.log(i)
   }
   
